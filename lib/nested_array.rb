@@ -36,18 +36,20 @@ end
 
 def matrix_lookup(matrix, row, column)
   produce = [
+  
+  ["Grapefruit",
+  "Pineapple",
+  "Oranges",
+  "Watermelon",
+  "Eggplant"]
+
 
   ["Strawberries",
   "Potatoes",
   "Grapes",
   "Avocadoes",
   "Asparagus"],
-    
-  ["Grapefruit",
-  "Pineapple",
-  "Oranges",
-  "Watermelon",
-  "Eggplant"]
+
   ]
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column

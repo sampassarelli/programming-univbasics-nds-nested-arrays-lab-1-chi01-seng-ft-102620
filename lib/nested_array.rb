@@ -35,7 +35,7 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  produce = [
+  assembled_matrix = [
   
   ["Grapefruit",
   "Pineapple",

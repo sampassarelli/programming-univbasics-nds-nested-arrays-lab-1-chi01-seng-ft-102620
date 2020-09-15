@@ -41,14 +41,14 @@ def matrix_lookup(matrix, row, column)
   "Pineapple",
   "Oranges",
   "Watermelon",
-  "Eggplant"]
+  "Eggplant"],
 
 
   ["Strawberries",
   "Potatoes",
   "Grapes",
   "Avocadoes",
-  "Asparagus"],
+  "Asparagus"]
 
   ]
   # Given any matrix (array of arrays), a row index and a column index, 
